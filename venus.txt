@@ -1,1 +1,5 @@
 venus is a rock orbited by a cluster of transcendental cliches
+<<<<<<< HEAD
+=======
+too far, too cold something
+>>>>>>> fcb62fa8d97da7c3a2e310bb51a0275ad45734d3
